@@ -1,8 +1,12 @@
 [web_servers]
 10.0.1.15
+10.0.1.18
 
 [db_servers]
 10.0.1.16
 
 [file_servers]
 10.0.1.17
+
+[workstations]
+10.0.1.15
